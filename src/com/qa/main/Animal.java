@@ -4,7 +4,11 @@ package com.qa.main;
 public class Animal {
 
 	// Fields
+<<<<<<< HEAD
 	private int eyes = 2;
+=======
+	private int eyes = 15;
+>>>>>>> fourthsrc/master
 	private String name;
 
 	public int getEyes() {
