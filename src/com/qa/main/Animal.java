@@ -4,7 +4,7 @@ package com.qa.main;
 public class Animal {
 
 	// Fields
-	private int eyes = 12;
+	private int eyes = 2;
 	private String name;
 
 	public int getEyes() {
