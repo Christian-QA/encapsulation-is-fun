@@ -47,4 +47,8 @@ public static void main(String[] args){
   System.out.println("Java is cool");
 }
 ```
+<<<<<<< HEAD
 >>>>>>> upstream/master
+=======
+pull request
+>>>>>>> secondsrc/master
