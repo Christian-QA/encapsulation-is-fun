@@ -4,8 +4,7 @@ package com.qa.main;
 public class Animal {
 
 	// Fields
-<<<<<<< HEAD
-<<<<<<< HEAD
+//no
 	private int eyes = 2;
 =======
 	private int eyes = 15;
